@@ -14,10 +14,12 @@ A collection of papers on skeleton-based human action recognition
 
 **2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning.** *CVPR 2018.*
 
+**Deep Progressive Reinforcement Learning for Skeleton-based Action Recognition.** *CVPR 2018.*
+
 **Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning.** *Chenyang Si, Ya Jing, Wei Wang, Liang Wang, and Tieniu Tan. ECCV 2018.* [[arXiv](https://arxiv.org/abs/1805.02335v2)]
 
 **Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition.** *Sijie Yan, Yuanjun Xiong and Dahua Lin. AAAI 2018.*  [[GitHub](https://github.com/open-mmlab/mmskeleton)]
 
-**Deep Progressive Reinforcement Learning for Skeleton-based Action Recognition.** *CVPR 2018.*
+
 
 
