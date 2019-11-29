@@ -10,7 +10,7 @@ A collection of papers on skeleton-based human action recognition
 
 **Skeleton-Based Action Recognition with Directed Graph Neural Networks.** *Lei Shi, Yifan Zhang, Jian Cheng, and Hanqing Lu. CVPR 2019.*
 
-**Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition. ** *Lei Shi, Yifan Zhang, Jian Cheng and Hanqing Lu. CVPR 2019.*  [[GitHub](https://github.com/lshiwjx/2s-AGCN)]
+**Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition.** *Lei Shi, Yifan Zhang, Jian Cheng and Hanqing Lu. CVPR 2019.*  [[GitHub](https://github.com/lshiwjx/2s-AGCN)]
 
 **2D/3D Pose Estimation and Action Recognition using Multitask Deep Learning.** *CVPR 2018.*
 
