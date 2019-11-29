@@ -1,7 +1,7 @@
 # Introduction
  A collection of papers on skeleton-based human action recognition
  
-**Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition.** *Maosen Li, Siheng Chen, Xu Chen, Ya Zhang, Yanfeng Wang, and Qi Tianm CVPR 2019.*
+**Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition.** *Maosen Li, Siheng Chen, Xu Chen, Ya Zhang, Yanfeng Wang, and Qi Tianm, CVPR 2019.*
 
 **Skeleton-Based Action Recognition with Directed Graph Neural Networks.** *Lei Shi, Yifan Zhang, Jian Cheng, and Hanqing Lu, CVPR 2019.*
 
