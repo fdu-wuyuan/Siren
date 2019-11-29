@@ -10,11 +10,11 @@ A collection of papers on skeleton-based human action recognition
 
 **An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition.** *Chenyang Si, Wentao Chen, Wei Wang, Liang Wang, and Tieniu Tan. CVPR 2019.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Si_An_Attention_Enhanced_Graph_Convolutional_LSTM_Network_for_Skeleton-Based_Action_CVPR_2019_paper.pdf)]
 
-**Bayesian Graph Convolution LSTM for Skeleton Based Action Recognition.** *Rui Zhao, Kang Wang, Hui Su and Qiang Ji. ICCV2019.* [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhao_Bayesian_Graph_Convolution_LSTM_for_Skeleton_Based_Action_Recognition_ICCV_2019_paper.html)]
+**Bayesian Graph Convolution LSTM for Skeleton Based Action Recognition.** *Rui Zhao, Kang Wang, Hui Su and Qiang Ji. ICCV2019.* [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Bayesian_Graph_Convolution_LSTM_for_Skeleton_Based_Action_Recognition_ICCV_2019_paper.pdf)]
 
 **Bayesian Hierarchical Dynamic Model for Human Action Recognition.** *Rui Zhao, Wanru Xu, Hui Su and Qiang Ji. CVPR 2019.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Bayesian_Hierarchical_Dynamic_Model_for_Human_Action_Recognition_CVPR_2019_paper.pdf)]
 
-**Making the Invisible Visible: Action Recognition Through Walls and Occlusions.**  *Tianhong Li, Lijie Fan, Mingmin Zhao, Yingcheng Liu and Dina Katabi. ICCV 2019.* [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Making_the_Invisible_Visible_Action_Recognition_Through_Walls_and_Occlusions_ICCV_2019_paper.html)]
+**Making the Invisible Visible: Action Recognition Through Walls and Occlusions.**  *Tianhong Li, Lijie Fan, Mingmin Zhao, Yingcheng Liu and Dina Katabi. ICCV 2019.* [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Making_the_Invisible_Visible_Action_Recognition_Through_Walls_and_Occlusions_ICCV_2019_paper.pdf)]
 
 **Skeleton-Based Action Recognition with Directed Graph Neural Networks.** *Lei Shi, Yifan Zhang, Jian Cheng, and Hanqing Lu. CVPR 2019.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.pdf)]
 
