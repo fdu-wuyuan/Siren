@@ -1,6 +1,6 @@
 # Introduction
 
-A collection of papers on skeleton-based human action recognition
+A collection of papers on skeleton-based human action recognition.	
 
 # Paper
 
@@ -26,6 +26,6 @@ A collection of papers on skeleton-based human action recognition
 
 **Deep Progressive Reinforcement Learning for Skeleton-based Action Recognition.** *CVPR 2018.* [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Deep_Progressive_Reinforcement_CVPR_2018_paper.pdf)]
 
-**Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning.** *Chenyang Si, Ya Jing, Wei Wang, Liang Wang, and Tieniu Tan. ECCV 2018.* [[arXiv](https://arxiv.org/abs/1805.02335v2)]
+**Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning.** *Chenyang Si, Ya Jing, Wei Wang, Liang Wang, and Tieniu Tan. ECCV 2018.* [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chenyang_Si_Skeleton-Based_Action_Recognition_ECCV_2018_paper.pdf)]
 
-**Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition.** *Sijie Yan, Yuanjun Xiong and Dahua Lin. AAAI 2018.*  [[GitHub](https://github.com/open-mmlab/mmskeleton)]
+**Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition.** *Sijie Yan, Yuanjun Xiong and Dahua Lin. AAAI 2018.*  [[arXiv](https://arxiv.org/pdf/1801.07455.pdf)] [[GitHub](https://github.com/open-mmlab/mmskeleton)]
