@@ -10,6 +10,8 @@ A collection of papers on skeleton-based human action recognition
 
 **An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition.** *Chenyang Si, Wentao Chen, Wei Wang, Liang Wang, and Tieniu Tan. CVPR 2019.*
 
+**Bayesian Hierarchical Dynamic Model for Human Action Recognition.** *Rui Zhao, Wanru Xu, Hui Su and Qiang Ji. CVPR 2019.*
+
 **Skeleton-Based Action Recognition with Directed Graph Neural Networks.** *Lei Shi, Yifan Zhang, Jian Cheng, and Hanqing Lu. CVPR 2019.*
 
 **Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition.** *Lei Shi, Yifan Zhang, Jian Cheng and Hanqing Lu. CVPR 2019.*  [[GitHub](https://github.com/lshiwjx/2s-AGCN)]
