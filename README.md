@@ -6,7 +6,7 @@ A collection of papers on skeleton-based human action recognition.
 
 ## 2019
 
-**Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition.** *Maosen Li, Siheng Chen, Xu Chen, Ya Zhang, Yanfeng Wang, and Qi Tianm. CVPR 2019.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Actional-Structural_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.pdf)]
+**Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition.** *Maosen Li, Siheng Chen, Xu Chen, Ya Zhang, Yanfeng Wang, and Qi Tian. CVPR 2019.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Actional-Structural_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.pdf)]
 
 **An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition.** *Chenyang Si, Wentao Chen, Wei Wang, Liang Wang, and Tieniu Tan. CVPR 2019.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Si_An_Attention_Enhanced_Graph_Convolutional_LSTM_Network_for_Skeleton-Based_Action_CVPR_2019_paper.pdf)]
 
