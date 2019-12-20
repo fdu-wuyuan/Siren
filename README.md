@@ -4,6 +4,9 @@ A collection of papers on skeleton-based human action recognition.
 
 # Paper
 
+## 2020
+**Self-Attention Network for Skeleton-based Human Action Recognition.** *Sangwoo Cho, Muhammad Hasan Maqbool, Fei Liu and Hassan Foroosh. WACV 2020.* [[arXiv](https://arxiv.org/abs/1912.08435)]
+
 ## 2019
 
 **Actional-Structural Graph Convolutional Networks for Skeleton-based Action Recognition.** *Maosen Li, Siheng Chen, Xu Chen, Ya Zhang, Yanfeng Wang, and Qi Tian. CVPR 2019.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Actional-Structural_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.pdf)]
