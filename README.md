@@ -19,6 +19,8 @@ A collection of papers on skeleton-based human action recognition.
 
 **Making the Invisible Visible: Action Recognition Through Walls and Occlusions.**  *Tianhong Li, Lijie Fan, Mingmin Zhao, Yingcheng Liu and Dina Katabi. ICCV 2019.* [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Making_the_Invisible_Visible_Action_Recognition_Through_Walls_and_Occlusions_ICCV_2019_paper.pdf)]
 
+**Multi-task Deep Learning for Real-Time 3D Human Pose Estimation and Action Recognition.** *Diogo C Luvizon, Hedi Tabia and David Picard. Submitted to TPAMI.* [[arXiv](https://arxiv.org/abs/1912.08077)]
+
 **Skeleton-Based Action Recognition with Directed Graph Neural Networks.** *Lei Shi, Yifan Zhang, Jian Cheng, and Hanqing Lu. CVPR 2019.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.pdf)]
 
 **Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition.** *Lei Shi, Yifan Zhang, Jian Cheng and Hanqing Lu. CVPR 2019.*  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Skeleton-Based_Action_Recognition_With_Directed_Graph_Neural_Networks_CVPR_2019_paper.pdf)] [[GitHub](https://github.com/lshiwjx/2s-AGCN)]
