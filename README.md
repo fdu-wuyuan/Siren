@@ -8,7 +8,7 @@ A collection of papers on skeleton-based human action recognition.
 
 **Context Aware Graph Convolution for Skeleton-Based Action Recognition.** *Xikun Zhang, Chang Xu and Dacheng Tao. CVPR 2020.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Context_Aware_Graph_Convolution_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.pdf)]
 
-**Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recoginition.** *Ziyu Liu, Hongwen Zhang, Zhenghao Chen, Zhiyong Wang and Wanli Ouyang. CVPR 2020.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Disentangling_and_Unifying_Graph_Convolutions_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.pdf)]
+**Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recoginition.** *Ziyu Liu, Hongwen Zhang, Zhenghao Chen, Zhiyong Wang and Wanli Ouyang. CVPR 2020.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Disentangling_and_Unifying_Graph_Convolutions_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.pdf)][[GitHub](https://github.com/kenziyuliu/ms-g3d)]
 
 **PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition.** *Kun Su, Xiulong Liu and Eli Shlizerman. CVPR 2020.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Su_PREDICT__CLUSTER_Unsupervised_Skeleton_Based_Action_Recognition_CVPR_2020_paper.pdf)]
 
