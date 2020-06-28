@@ -5,7 +5,18 @@ A collection of papers on skeleton-based human action recognition.
 # Paper
 
 ## 2020
+
+**Context Aware Graph Convolution for Skeleton-Based Action Recognition.** *Xikun Zhang, Chang Xu and Dacheng Tao. CVPR 2020.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Context_Aware_Graph_Convolution_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.pdf)]
+
+**Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recoginition.** *Ziyu Liu, Hongwen Zhang, Zhenghao Chen, Zhiyong Wang and Wanli Ouyang. CVPR 2020.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Disentangling_and_Unifying_Graph_Convolutions_for_Skeleton-Based_Action_Recognition_CVPR_2020_paper.pdf)]
+
+**PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition.** *Kun Su, Xiulong Liu and Eli Shlizerman. CVPR 2020.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Su_PREDICT__CLUSTER_Unsupervised_Skeleton_Based_Action_Recognition_CVPR_2020_paper.pdf)]
+
+**Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition.** *Pengfei Zhang, Cuiling Lan, Wenjun Zeng, Junliang Xing, Jianru Xue and Nanning Zheng. CVPR 2020.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Semantics-Guided_Neural_Networks_for_Efficient_Skeleton-Based_Human_Action_Recognition_CVPR_2020_paper.pdf)]
+
 **Self-Attention Network for Skeleton-based Human Action Recognition.** *Sangwoo Cho, Muhammad Hasan Maqbool, Fei Liu and Hassan Foroosh. WACV 2020.* [[arXiv](https://arxiv.org/abs/1912.08435)]
+
+**Skeleton-Based Action Recognition With Shift Graph Convolutional Network.** *Ke Cheng, Yifan Zhang, Xiangyu He, Weihan Chen, Jian Cheng, and Hanqing Lu. CVPR 2020.* [[PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Skeleton-Based_Action_Recognition_With_Shift_Graph_Convolutional_Network_CVPR_2020_paper.pdf)][[GitHub](https://github.com/kchengiva/Shift-GCN)]
 
 ## 2019
 
